@@ -56,3 +56,12 @@ form .disp input {
 form input.equal {
     width: 145px;
 }
+
+@media screen and (max-width:600px)
+{
+    .calculator form input {
+        width: 52px;
+        height: 52px;
+    }
+
+}

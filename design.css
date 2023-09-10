@@ -63,5 +63,8 @@ form input.equal {
         width: 52px;
         height: 52px;
     }
+    form input.equal {
+    width: 145px;
+}
 
 }

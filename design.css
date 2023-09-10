@@ -53,7 +53,7 @@ form .disp input {
     box-shadow: none;
 }
 
-form input.equal {
+.equal {
     width: 145px;
 }
 
@@ -63,7 +63,7 @@ form input.equal {
         width: 52px;
         height: 52px;
     }
-    form input.equal {
+    .equal {
     width: 145px;
 }
 
